@@ -1,0 +1,4 @@
+- Hello, I’m @i1nsomni1ac
+- I’m a beginner game dev who makes games
+- I’m currently using c# and unity to make my games
+- you can reach me on my email - i1nsomni1ac@outlook.com
